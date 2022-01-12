@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Food-Recipe-Finder/static/css/main.050195f7.chunk.css",
-    "main.js": "/Food-Recipe-Finder/static/js/main.f9c7dbaa.chunk.js",
-    "main.js.map": "/Food-Recipe-Finder/static/js/main.f9c7dbaa.chunk.js.map",
-    "runtime-main.js": "/Food-Recipe-Finder/static/js/runtime-main.dcf13bd9.js",
-    "runtime-main.js.map": "/Food-Recipe-Finder/static/js/runtime-main.dcf13bd9.js.map",
-    "static/js/2.684873c1.chunk.js": "/Food-Recipe-Finder/static/js/2.684873c1.chunk.js",
-    "static/js/2.684873c1.chunk.js.map": "/Food-Recipe-Finder/static/js/2.684873c1.chunk.js.map",
-    "index.html": "/Food-Recipe-Finder/index.html",
-    "static/css/main.050195f7.chunk.css.map": "/Food-Recipe-Finder/static/css/main.050195f7.chunk.css.map",
-    "static/js/2.684873c1.chunk.js.LICENSE.txt": "/Food-Recipe-Finder/static/js/2.684873c1.chunk.js.LICENSE.txt",
-    "static/media/hamburger.07089ff4.svg": "/Food-Recipe-Finder/static/media/hamburger.07089ff4.svg",
-    "static/media/search-icon.077696d4.svg": "/Food-Recipe-Finder/static/media/search-icon.077696d4.svg"
+    "main.css": "/Food-Recipes-Finder/static/css/main.050195f7.chunk.css",
+    "main.js": "/Food-Recipes-Finder/static/js/main.f9c7dbaa.chunk.js",
+    "main.js.map": "/Food-Recipes-Finder/static/js/main.f9c7dbaa.chunk.js.map",
+    "runtime-main.js": "/Food-Recipes-Finder/static/js/runtime-main.e4a9005c.js",
+    "runtime-main.js.map": "/Food-Recipes-Finder/static/js/runtime-main.e4a9005c.js.map",
+    "static/js/2.988b58d4.chunk.js": "/Food-Recipes-Finder/static/js/2.988b58d4.chunk.js",
+    "static/js/2.988b58d4.chunk.js.map": "/Food-Recipes-Finder/static/js/2.988b58d4.chunk.js.map",
+    "index.html": "/Food-Recipes-Finder/index.html",
+    "static/css/main.050195f7.chunk.css.map": "/Food-Recipes-Finder/static/css/main.050195f7.chunk.css.map",
+    "static/js/2.988b58d4.chunk.js.LICENSE.txt": "/Food-Recipes-Finder/static/js/2.988b58d4.chunk.js.LICENSE.txt",
+    "static/media/hamburger.07089ff4.svg": "/Food-Recipes-Finder/static/media/hamburger.07089ff4.svg",
+    "static/media/search-icon.077696d4.svg": "/Food-Recipes-Finder/static/media/search-icon.077696d4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcf13bd9.js",
-    "static/js/2.684873c1.chunk.js",
+    "static/js/runtime-main.e4a9005c.js",
+    "static/js/2.988b58d4.chunk.js",
     "static/css/main.050195f7.chunk.css",
     "static/js/main.f9c7dbaa.chunk.js"
   ]
